@@ -1,0 +1,17 @@
+path: /content/drive/MyDrive/360 FINAL PROJECT Colours/Colors
+train: /content/drive/MyDrive/360 FINAL PROJECT Colours/Colors/images/train
+#test: (test dataset folder path)
+val: /content/drive/MyDrive/360 FINAL PROJECT Colours/Colors/images/val
+
+# Classes
+nc: 6 # replace based on your dataset's number of classes
+
+# Class names
+# replace all class names with your own classes' names
+names:
+  0: Green
+  1: Blue
+  2: Red
+  3: Yellow
+  4: Black
+  5: White
